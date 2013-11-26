@@ -26,7 +26,7 @@
       <file leaf-file-name="manifest.json" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="20" selection-start="196" selection-end="196" vertical-scroll-proportion="0.19379845" vertical-offset="0" max-vertical-offset="387">
+            <state line="16" column="4" selection-start="403" selection-end="403" vertical-scroll-proportion="0.62015504" vertical-offset="0" max-vertical-offset="465">
               <folding />
             </state>
           </provider>
@@ -42,7 +42,7 @@
       <file leaf-file-name="obscure.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/obscure.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="3" selection-start="476" selection-end="476" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+            <state line="12" column="3" selection-start="511" selection-end="511" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -162,9 +162,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1537" height="774" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32874617" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32874617" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -203,7 +203,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/obscure.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="3" selection-start="476" selection-end="476" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+        <state line="12" column="3" selection-start="511" selection-end="511" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -212,7 +212,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="20" selection-start="196" selection-end="196" vertical-scroll-proportion="0.19379845" vertical-offset="0" max-vertical-offset="387">
+        <state line="16" column="4" selection-start="403" selection-end="403" vertical-scroll-proportion="0.62015504" vertical-offset="0" max-vertical-offset="465">
           <folding />
         </state>
       </provider>
