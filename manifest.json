@@ -2,25 +2,15 @@
     "name": "Like blocker",
     "description": "Obscures the number of likes or views on a page so you can form your own opinion",
     "version": "1.0",
+    "manifest_version": 2,
     "permissions": [
-        "activeTab",
-        "browsingData"
+        "tabs"
     ],
-    "background": {
-        "scripts": ["obscure.js"],
-        "persistent": false
-    },
-    "browser_action": {
-        "default_title": "Obscure likes or views"
-    },
-
     "content_scripts": [
         {
-            "matches": ["http://www.google.com/*"],
-            "css": ["mystyles.css"],
-            "js": ["jquery.js", "myscript.js"]
+            "matches": ["http://www.youtube.com/*"],
+            "css": ["youtubeobscure.css"],
+            "js": ["youtubeobscure.js"]
         }
-    ],
-
-    "manifest_version": 2
+    ]
 }
